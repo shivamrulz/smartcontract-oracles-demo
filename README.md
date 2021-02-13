@@ -1,4 +1,8 @@
 # smartcontract-oracles-demo
+
+By  Shivam Rattan 101339648
+
+
 a demonstration of blockchain oracles fetching data from outside into the blockchain using a simple stock smartcontract
 
 # folder schema:
